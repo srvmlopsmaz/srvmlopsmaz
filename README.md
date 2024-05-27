@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![mlops_logo](https://github.com/srvmlopsmaz/srvmlopsmaz/assets/142519902/02d4cf7a-b41d-4ba9-80fa-7f5b9ab5ecdb)
+
 <!--
 **srvmlopsmaz/srvmlopsmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
